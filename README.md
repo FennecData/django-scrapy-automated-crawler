@@ -1,0 +1,1 @@
+# Django Scrapy - simple automated processing

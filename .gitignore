@@ -1,0 +1,4 @@
+scrapping/logs/**
+scrapping/results/**
+scrapping/running/**
+scrapping/spiders/ybadcount.py
