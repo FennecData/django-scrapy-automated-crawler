@@ -10,7 +10,7 @@ solutions like https://github.com/holgerd77/django-dynamic-scraper
 
 # API
 /simplespider/parse  POST parameters :
-'''json
+'''javascript
 {
     urls : ["http://google.fr","http://yahoo.fr"]
     xpath : "//body/p[1]/text()"
